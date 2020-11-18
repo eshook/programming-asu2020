@@ -1,2 +1,3 @@
 # Python Programming for Non-Programming Social Scientists: Using Computational Notebooks and Python to tell your research story
 
+Interested in programming, but don't know where to start? Have you heard of Python, but it sounds too scary? This workshop is designed for non-programmers and will cover the basics, including answering the most fundamental questions: What is a program? Why do we program? How do we program in Python? The all-day workshop will combine synchronous and asynchronous instruction and provide hands-on activities to help you write your first program in the easy to learn Python programming language. We will provide plenty of free resources and discuss different ways that programming can help you in your social science research.
